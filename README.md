@@ -1,4 +1,4 @@
-iTefter
+zTefter
 A better, free, simple and efficient appointment/bookeeping/scheduling application for small businesses, entrepreneurs and professionals
 Optimized for very small businesses
 
